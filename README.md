@@ -11,7 +11,7 @@
 
 ### Hi, I'm Mirim! 👋
 
-I'm an engineer trying to learn as naturally as breathing. 🌬
+I'm a software engineer trying to learn as naturally as breathing. 🌳
 
 Some things I've built:
 
