@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**firepunch/firepunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Mirim! 👋
+
+I'm an engineer trying to learn as naturally as breathing. 🌬
+
+Some things I've built:
+
+- 🦮 [Go for Walkies](https://goforwalkies.bcitwebdeveloper.ca/) — an e-commerce platform for pets
+
+Find me elsewhere:
+
+- 🔥 [firepunch.github.io](https://firepunch.github.io)
+- 💼 [Linkedin](https://www.linkedin.com/in/mirim-yu)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
