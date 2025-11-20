@@ -18,11 +18,3 @@ END_SECTION    :waka
 
 I'm a software engineer trying to learn as naturally as breathing. 🌳
 
-Some things I've built:
-
-- 🦮 [Go for Walkies](https://goforwalkies.bcitwebdeveloper.ca/) — an e-commerce platform for pets
-
-Find me elsewhere:
-
-- 🔥 [firepunch.github.io](https://firepunch.github.io)
-- 💼 [Linkedin](https://www.linkedin.com/in/mirim-yu)
